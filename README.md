@@ -8,7 +8,7 @@
 -------
 
 <p align="center">
-<a href="https://github.com/thaispisani/prompts-recipe-to-create-a-ebook/blob/main/output/ebook.pdf">Acesse o projeto aqui 🤖🐍 </a>
+<a href="https://github.com/thaispisani/prompts-recipe-to-create-a-ebook/blob/thaispisani/output/ebook.pdf">Acesse o projeto aqui 🤖🐍 </a>
 </p>
 
 --------
